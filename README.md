@@ -20,4 +20,4 @@ Renderer: Forward+
 
 Font is "Montserrat Medium". Copyright 2011 [The Montserrat Project Authors](https://github.com/JulietaUla/Montserrat). Details are in `fonts/LICENSE.txt`.
 
-<!-- now git push --set-upstream origin main -->
+<!-- now https://docs.godotengine.org/ja/4.x/getting_started/first_3d_game/03.player_movement_code.html -->
